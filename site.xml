@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/crossbrowsertest_feature_project_1.0.0.201806261309.jar" id="crossbrowsertest_feature_project" version="1.0.0.201806261309">
+      <category name="Testing"/>
+   </feature>
+   <category-def name="Testing" label="Testing">
+      <description>
+         Cross browser testing tool.
+      </description>
+   </category-def>
+</site>
